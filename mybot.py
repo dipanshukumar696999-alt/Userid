@@ -20,7 +20,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8649121062:AAFK-qHbasbaeGLbf0ufhcXznaguqR1rH44"
+BOT_TOKEN = "8641243852:AAGzOPrP0scGm59BBxoO7tUfAFTLEqgHFeo"
 YML_FILE_PATH = ".gitlab-ci.yml"
 BINARY_FILE_NAME = "soul"
 ATTACK_HISTORY_FILE = "attack_history.json"
